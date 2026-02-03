@@ -118,7 +118,7 @@ pluggy==1.6.0
     # via pytest
 pox==0.3.6
     # via pathos
-ppft==1.7.7
+ppft==1.7.8
     # via pathos
 protobuf==6.31.1
     # via sagemaker
