@@ -367,6 +367,7 @@ def verify_reward_function(
 
             # Create a namespace for execution
             namespace: Dict[str, Any] = {}
+            # nosemgrep: python.lang.security.audit.exec-detected.exec-detected
             exec(code, namespace)
 
             # Find the lambda_handler function
