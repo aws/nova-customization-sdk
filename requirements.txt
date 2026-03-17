@@ -344,7 +344,7 @@ psutil==7.2.2
     # via sagemaker-serve
 pyarrow==23.0.1
     # via mlflow
-pyasn1==0.6.2
+pyasn1==0.6.3
     # via
     #   pyasn1-modules
     #   rsa
