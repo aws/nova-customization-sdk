@@ -44,7 +44,7 @@ boto3==1.42.65
     #   sagemaker-mlflow
     #   sagemaker-mlops
     #   sagemaker-serve
-botocore==1.42.65
+botocore==1.42.69
     # via
     #   boto3
     #   s3transfer
